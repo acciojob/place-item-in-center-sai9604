@@ -2,6 +2,5 @@
 /* Your CSS Code here. */
 .flexcontainer{
 	display:flex;
-	justify-content:center;
-	
+	justify-content:center;	
 }

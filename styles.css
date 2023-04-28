@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.flexcontainer{
+	display:flex;
+	justify-content:center;
+	
+}
